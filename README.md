@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-✨ Rhitik ✨, here. People call me Rhitik, RB, or LambaInsaan. I am a Software Developer currently working at [CommerceIQ.ai](www.commerceiq.ai). I had previously worked at [RivetLabs.io](www.rivetlabs.io), and [Skylarkdrones](www.skylarkdrones.com) including a very short stint at [Delhivery](www.delhivery.com).
+✨ Rhitik ✨, here. People call me Rhitik, RB, or LambaInsaan. I am a Software Developer currently working at [CommerceIQ.ai](https://www.commerceiq.ai). I had previously worked at [RivetLabs.io](https://www.rivetlabs.io), and [Skylarkdrones](https://www.skylarkdrones.com) including a very short stint at [Delhivery](https://www.delhivery.com).
 
 I mostly code in Python, and TypeScript, and I am dipping my toes in the Goland right now, but I am language agnostic. Except for racket, I hate the b-racket overloading, sorry to break your heart if you love racket. 💔😛
 
