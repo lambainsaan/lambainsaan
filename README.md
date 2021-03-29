@@ -23,7 +23,7 @@ Also, you can reachout to me at LambaInsaan on freenode at IRC.
 
 [Follow me on twitter, maybe?](https://twitter.com/lambainsaan)
 
-[I am quite a slacker at Instagram but you can follow me there](https://www.instagram.com/lambainsaan_/).
+[I am quite a slacker at Instagram but you can follow me there](https://www.instagram.com/lamba.insaan/).
 
 
 <!--
