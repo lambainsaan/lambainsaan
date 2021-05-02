@@ -1,11 +1,7 @@
 ### Hi there 👋
 
 
-Rhitik, here. I am a Software Developer currently working at [CommerceIQ.ai](https://www.commerceiq.ai). I had previously worked at [RivetLabs.io](https://www.rivetlabs.io), and [Skylarkdrones](https://www.skylarkdrones.com).
-
-Looking 
-
-I have diverse experience, I worked purely in the frontend in some of the organizations, and currently, I am working purely on the backend side of things, building the future of e-commerce. 🚀
+Rhitik, here. I am a Software Developer currently working at [CommerceIQ.ai](https://www.commerceiq.ai). I had previously worked at [RivetLabs.io](https://www.rivetlabs.io), and [Skylarkdrones](https://www.skylarkdrones.com). I have diverse experience, I worked purely in the frontend in some of the organizations, and currently, I am working purely on the backend side of things, building the future of e-commerce. 🚀
 
 ## About me
 
