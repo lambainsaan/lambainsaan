@@ -6,8 +6,11 @@ Rhitik, here. Currently working at [CommerceIQ.ai](https://www.commerceiq.ai). I
 ## About me
 
 Passionate about education
+
 Love Entrepreneurship
+
 Running
+
 Swimming
 
 
