@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Rhitik, here. Currently working at [CommerceIQ.ai](https://www.commerceiq.ai). I had previously worked at [RivetLabs.io](https://www.rivetlabs.io), and [Skylarkdrones](https://www.skylarkdrones.com). I have diverse experience, I worked purely in the frontend in some of the organizations, and currently, I am working purely on the backend side of things, building the future of e-commerce. 🚀
-
 ## About me
 
 Passionate about education
@@ -21,7 +19,7 @@ I am always in hunt to increase my circle. I wonder how you stumbled upon this, 
 
 Also, you can reachout to me at LambaInsaan on freenode at IRC.
 
-[Follow me on twitter, maybe?](https://twitter.com/lambainsaan)
+[Follow me on twitter, maybe? I tweet about startups, and tech](https://twitter.com/lambainsaan)
 
 <!--
 **lambainsaan/lambainsaan** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
