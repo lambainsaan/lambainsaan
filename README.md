@@ -17,7 +17,7 @@ Swimming
 
 I am always in hunt to increase my circle. I wonder how you stumbled upon this, come and say hi to me at rhitikbhatt[at]gmail[dot]com.
 
-Also, you can reachout to me at LambaInsaan on freenode at IRC.
+Also, you can reachout to me at LambaInsaan on freenode, and Libera Chat.
 
 [Follow me on twitter, maybe? I tweet about startups, and tech](https://twitter.com/lambainsaan)
 
